@@ -31,7 +31,7 @@ bun dev
 
 ## 🎯 Features
 
-- **Dashboard Layout**: Matches the provided Figma design with dark sidebar and light content area
+- **Dashboard Layout**:  made some changes to design to show my creativity 
 - **4+ Chart Types**: 
   - Bar charts (Query Executions, Firewall API Calls)
   - Horizontal bar chart (Queries by Source)
